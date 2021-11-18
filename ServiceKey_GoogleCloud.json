@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "silver-ivy-331518",
+  "private_key_id": "c65b2000a456e445e32090144cec652d9758b1ff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDcbzhg2s4P59Qo\nj8JBI0hQQCJDfeq1EbM6R1afp9dlsYjEvp7ILE0GBLBJOgtxc9PpbfXzaQAivNmW\niLS5aikpmCf3As96Tz6jEJn/P06j02gZe83wV0oYIDOSQpm3eTjO5hd0TmR+z76S\nx8CsEDsC2D6FNLjaHvnsU1UkKIR8AewULeI7+don5l2ola7BdD0e4IYGK8IwZgD9\nOWPL1M0WmluTgFh6j7Qe99DWkpRPGgv/Dyi4aMnM0Nv+JkMkP3/iA/hz+vOINePl\nNmW8zkSCYDYkYIDUYZQroRu2loPLiIhPKWdYRuET1cKw71xTggnZ19VEyl41ArHC\nguERw/UvAgMBAAECgf8HsCJ+GbXM/MjpfKxcBvFH2z3o+B/cDEH9Icj17RuDy+Qw\nHQgjhWgFu21F+/chEB/4hDi0VuLhLrT6VDf5ZBXm3Xn1ETZP1uFqqfK1BpKAtoNq\n8mZzMk8H0YVopsVsjnJae9B6K696KnuNWdfecY3meTaQbsZM1TV0iJgUKsNPj9WZ\n66Y5TFl5snXhVRkqRYjdp+fSV1DMONAkQZ6TbJLknG7PbFRgjJrGX4je8zYAlIAL\nIFGpU41B4n9xE0FkDCuOIVldSC1HDcljD9iqLGEgwnUJFdI07Kj+bFOeysa4R8Ef\noy4c9EJFwDHc6I9DbFTp1kquduXmRtv+wf1u6ykCgYEA7wgXk6u4tUEAU7a06OGR\nRJMltqZSNwFE60XGFMgyvAPs/stCI8ejc4NETTJw9j/2TmXxK9oBrJlZ6aa39u0g\n/1YC5XUNaxMGg9Zrq7I0ILDs/IDm+Eo0/vduhg/HVcEfKjJNaeFrQ0BRCx7ubBRT\n9sIvndGmENKb0jZq0VviZekCgYEA7BUpvylPbO3A91gSio2ZqNQXYW1CJvKpLA+S\nvEX34x3CvT8PMC86mZ5i9XmP6SeQNvvkfdYjj4lAhq1mmPci5gybXuzV0oclV4PG\nFdjimieTmaA19vPF52snWQOpL78P/pCZ8CMi3wJYma/P9Y+Lmtl5X+CIa+inIXpm\nT91d21cCgYEAsDuYHnEqUsCk/BOmGFlOoG+ZC6xey10tMgWUgHgGJ+cBEe5MSlMD\nqMPsVLpO3M/VyoGQqZMnTtkVmJYp5m14uajxo7mEdiBl2kf5xHIzyrKHV7e2EvOr\nVRyaqU7y2b/0OUkzGFBxo/jEh917TcZDDZioQMR0msycxAUJBminaBkCgYBA35vm\nLNrnivngvjHyIvEbpJR8MELiYwI72levJub0YSQ3TtHEouXOeuikne/+2OFXSqbC\nMYr6EXRKzfGIjTjo0IQNdLVZMcwAHXTcYgn65G854v2RS/GRIy/f1RKzzSP/BwtW\nIsGdWI6yRM63oudw+NvSjefPB1KN742X2rPE5wKBgGSVxKeQlp4+1XqIV9VQ3dVa\ntkW4dGPkEbzKcMKrphoRq/PVAPfKick/iEYPyyw0oTMjhBlMLkTYFaBdwqnTGRGB\nchWWuKSvbkHgmwmAmF3c9hMTHYzRv0weY/IcFy7teM6tLPRgZceGjbmDidVA5G13\nH/CIGNWAF8imLThXhHV+\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudstorage@silver-ivy-331518.iam.gserviceaccount.com",
+  "client_id": "107992498099456760998",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudstorage%40silver-ivy-331518.iam.gserviceaccount.com"
+}
